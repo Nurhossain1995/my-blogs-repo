@@ -1,0 +1,26 @@
+h1{
+  text-align: center;
+  color:aquamarine;
+  font-family: 'Courier New', Courier, monospace;
+}
+.blog{
+  background-color: chocolate;
+  margin: 20px auto;
+  padding: 10px;
+  border:2px solid gray;
+  border-radius: 15px;
+  
+}
+span{
+ 
+}
+.blog p{
+  text-align: justify;
+  color: blanchedalmond;
+  font-size: 18px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.part{
+    color:blueviolet;
+    font-weight: 700;
+}
