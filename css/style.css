@@ -26,6 +26,11 @@ span{
     font-weight: 700;
     color: chartreuse;
 }
+#blg-img{
+    display: block;
+    width:500px;
+    margin: 0 auto;
+}
 .part{
     color:blueviolet;
     font-weight: 700;
