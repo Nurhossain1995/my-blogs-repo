@@ -20,6 +20,12 @@ span{
   font-size: 18px;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+.blog h4{
+    text-align: center;
+    font-size: 24px;
+    font-weight: 700;
+    color: chartreuse;
+}
 .part{
     color:blueviolet;
     font-weight: 700;
